@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.control {
+  border-bottom: 2px black solid;
+  background-color: lightblue;
+  margin-bottom: 100px;
+}
+
+.content {
+  position: relative;
+  border: 2px black
+}
+
+.url-container {
+  display: flex;
+  padding: 10px;
+}
+
+.whitelist-container {
+  display: flex;
+  padding: 10px;
+}
